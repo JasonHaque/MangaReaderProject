@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "448755868788",
+    "firebase_url": "https://mangareaderproject.firebaseio.com",
+    "project_id": "mangareaderproject",
+    "storage_bucket": "mangareaderproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448755868788:android:560fd2b1b1a93b49d3dd21",
+        "android_client_info": {
+          "package_name": "com.example.mangareaderproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448755868788-heof4qd84dd701cjtbmg18u6kla0ihom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mangareaderproject",
+            "certificate_hash": "db92d15db6985d880db2b1c8584c30156186c43f"
+          }
+        },
+        {
+          "client_id": "448755868788-08j8vj727ti0n5b26jlcevarnssqaqjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmSC9Sr8zKwwJ2BB8YT9GZRH_RaOmMeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448755868788-08j8vj727ti0n5b26jlcevarnssqaqjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
