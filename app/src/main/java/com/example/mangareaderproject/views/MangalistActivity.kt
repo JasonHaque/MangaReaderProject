@@ -1,4 +1,4 @@
-package com.example.mangareaderproject.Activities
+package com.example.mangareaderproject.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
